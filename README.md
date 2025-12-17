@@ -7,7 +7,7 @@
 
 ## 📋 Descripción Ejecutiva
 
-Bienvenido a la **Fase 3** de tu entrenamiento DevOps. Tras haber "dockerizado" nuestra aplicación legacy en el taller anterior, ahora la desplegaremos en una arquitectura **Enterprise Grade** utilizando **AWS Fargate** (Serverless Compute).
+Bienvenido a la **Fase 3** DevOps. Tras haber "dockerizado" nuestra aplicación legacy en el taller anterior, ahora la desplegaremos en una arquitectura **Enterprise Grade** utilizando **AWS Fargate** (Serverless Compute).
 
 A diferencia de soluciones básicas, utilizaremos un **Application Load Balancer (ALB)** como único punto de entrada, garantizando alta disponibilidad, seguridad y escalabilidad automática.
 
