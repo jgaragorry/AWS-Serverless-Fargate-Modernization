@@ -1,0 +1,21 @@
+# Ignorar Git
+.git
+.gitignore
+
+# Ignorar Infraestructura (No necesitamos Terraform dentro de la imagen Docker)
+terraform/
+bootstrap/
+scripts/
+
+# Ignorar Documentación
+README.md
+RUNBOOK.md
+INSTRUCTOR_GUIDE.md
+BEST_PRACTICES_AND_TECH.md
+*.png
+*.jpg
+
+# Ignorar configuraciones de editor
+.vscode
+.idea
+.editorconfig

@@ -1,0 +1,25 @@
+# --- Terraform ---
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.terraform.lock.hcl
+terraform.tfvars
+terraform.tfvars.json
+
+# --- Generados por nuestros Scripts ---
+terraform/backend.tf
+
+# --- AWS & Sistema ---
+.DS_Store
+Thumbs.db
+.aws/
+
+# --- IDEs ---
+.vscode/
+.idea/
+*.swp
+
+# --- Logs ---
+*.log
+npm-debug.log*
